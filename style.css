@@ -1,4 +1,107 @@
-img{
-	width: 1337;
-	height: 667;
+.header{
+	display: block;
+	
+}
+
+.logo{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -60%);
+}
+
+i:nth-of-type(1){
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-1250%, 500%);
+	color: grey;
+}
+
+i:nth-of-type(2){
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-750%, 500%);
+	color: grey;
+}
+
+i:nth-of-type(3){
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-450%, 500%);
+	color: grey;
+}
+
+i:nth-of-type(4){
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(100%, 500%);
+	color: grey;
+}
+
+i:nth-of-type(5){
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(440%, 500%);
+	color: grey;
+}
+
+i:nth-of-type(6){
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(980%, 500%);
+	color: grey;
+}
+
+p:nth-of-type(1){
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-600%, 500%);
+	color: grey;
+}
+
+p:nth-of-type(2){
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-300%, 500%);
+	color: grey;
+}
+
+p:nth-of-type(3){
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-200%, 500%);
+	color: grey;
+}
+
+p:nth-of-type(4){
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-10%, 500%);
+	color: grey;
+}
+
+p:nth-of-type(5){
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(270%, 500%);
+	color: grey;
+}
+
+p:nth-of-type(6){
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(290%, 500%);
+	color: grey;
 }
